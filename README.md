@@ -26,10 +26,11 @@ It's assumed you already have the following tools installed. If you don't, head 
 on how to get them installed. It's also assumed you already have at least a basic understanding of how these tools work, so if you don't, it's
 time to do some reading. ;)
 
-* Composer
 * Vagrant (including any plugins for other providers, if necessary)
-* Chef
+* Librarian Chef - Needed to pull in the required cookbooks before you provision the server.
 * <del>Capistrano</del> *-- Coming soon --*
+
+To start up the VM, first run `librarian-chef update` to download the required cookbooks, then just `vagrant up`.
 
 Dependency Management
 ---------------------
