@@ -8,6 +8,7 @@
 ### Project specific  ##
 ########################
 .vagrant
+database/*
 web/wp/*
 web/wp-content/plugins/*
 vendor/*
