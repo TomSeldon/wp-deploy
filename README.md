@@ -17,7 +17,7 @@ If you make a change you think would benefit the project, please make a pull req
 * **Vagrant** for testing locally.
 * **Chef** for provisioning the Vagrant VM and remote servers.
 * **Librarian** for pulling in Chef cookbook dependencies.
-* **Capistrano** for deploying your code to staging and production servers.
+* <del>**Capistrano** for deploying your code to staging and production servers.</del> *-- Coming soon--*
 
 Requirements
 ------------
