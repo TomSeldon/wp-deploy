@@ -1,0 +1,6 @@
+name                "wpdeploy-configure"
+maintainer          "Tom Seldon"
+maintainer_email    "tom@tomseldon.co.uk"
+license             "none"
+description         "Configured a WordPress environment. Borrows heavily from Michael Bastos `WP Chef`."
+version             "0.1"

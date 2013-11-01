@@ -1,0 +1,15 @@
+
+########################
+### IDE and OS files  ##
+########################
+.idea
+
+########################
+### Project specific  ##
+########################
+.vagrant
+web/wp/*
+web/wp/wp-content/plugins/*
+vendor/*
+/cookbooks
+/tmp
