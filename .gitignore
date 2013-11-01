@@ -9,7 +9,7 @@
 ########################
 .vagrant
 web/wp/*
-web/wp/wp-content/plugins/*
+web/wp-content/plugins/*
 vendor/*
 /cookbooks
 /tmp
